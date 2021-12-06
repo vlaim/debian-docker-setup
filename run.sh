@@ -13,7 +13,7 @@ sudo apt-get -y install \
     apt-transport-https \
     ca-certificates \
     curl \
-	make \
+    make \
     gnupg \
     nginx \
     docker-ce \
